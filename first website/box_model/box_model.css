@@ -1,0 +1,20 @@
+body {
+	background-color: blueviolet;
+}
+
+#pic {
+	height: 250px;
+	width: 400px;
+	padding: 10px;
+	margin: 5px;
+ 	background-color: black;
+ 	border: 5px dashed lightblue;
+}
+
+div{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-content: flex-start;
+}
