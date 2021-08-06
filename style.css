@@ -1,0 +1,169 @@
+body {
+	background-color: paleturquoise;
+}
+
+
+*{
+	margin: 0px;
+	padding: ;
+}
+
+
+a {text-decoration: none;
+	color: black;
+}
+
+#title {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 500%;
+	letter-spacing:5px ;
+	color:cyan ;
+	transform: translate(-1300px, 0px);
+}
+
+#startbtn {
+	font-family: font-family: 'Palette Mosaic', cursive;
+	text-align: center;
+	font-size: 450%;
+	letter-spacing:5px ;
+	color:black ;
+	transform: translate(-1100px,550px);
+}
+
+.groups{
+	font-family: font-family: 'Inconsolata', monospace;
+	text-align: center;
+	font-size: 200%;
+	letter-spacing:5px ;
+	color:darkblue;
+}
+
+.pics{
+	height: 300px;
+	width: 450px;
+	padding: 20px;
+	border-radius: 20px;
+	margin: 10px;
+}
+
+#top-banner {
+	display:  flex;
+}
+
+#banner {
+	width: 100%;
+	position: relative;
+}
+
+#login-elements{
+	position: absolute;
+}
+
+#loginicon{
+	width: 40px;
+	transform: translate(1300px,15px);
+}
+
+#menuicon{
+	width: 40px;
+	transform: translate(1310px,15px);
+}
+
+
+p {
+	font-size: 30px;
+	transform: translate(80px,0px);
+}
+#cards{
+
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,100px);
+	justify-content: space-between;
+
+
+}
+	
+
+
+#cards > h2 {
+	position: absolute;
+	transform: translate(600px,-30px);
+	color:darkblue;
+}
+
+
+
+#cards2{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+
+}
+
+
+#cards2 > h2 {
+	position: absolute;
+	transform: translate(600px,-30px);
+	color:darkblue;
+}
+
+#cards2a{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+}
+
+
+#cards3 > h2 {
+	position: absolute;
+	transform: translate(600px,-30px);
+	color:darkblue;
+}
+
+
+
+#cards3{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+
+}
+
+
+#cards3a{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+
+}
+#cards4 > h2 {
+	position: absolute;
+	transform: translate(580px,-30px);
+	padding: 20px;
+	margin: 10px;
+	color:darkblue;
+}
+
+
+#cards4a{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+
+}
+
+
+#cards4{
+	display: flex;
+	justify-content: space-evenly;
+	transform: translate(0px,150px);
+	justify-content: space-between;
+
+}
